@@ -7,8 +7,6 @@
 </div>
 <br/>
 
-## *Stack*
-
 <div align="center">
 <img src="https://img.shields.io/badge/Python-000000?style=flat-square&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/SQL-000000?style=flat-square&logo=postgresql&logoColor=white"/>
