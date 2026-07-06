@@ -30,13 +30,13 @@
 <tr>
 <td width="50%" valign="top">
 
-**Day-Ahead Electricity Price Forecasting**
+**Electricity Price Forecasting**
 <br/>
 <sub>*ML Internship · National Institute of Technology, Puducherry*</sub>
 
 Engineered 23 features from 16K+ hourly ENTSO-E records across Greece and Belgium. Benchmarked three architectures via time-series cross-validation; tuned XGBoost and validated with SHAP.
 
-`87.3% R²` · `21% lower MAE than baseline`
+`87.3% R²` · `12.6% lower MAE than baseline`
 
 </td>
 <td width="50%" valign="top">
