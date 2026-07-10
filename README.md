@@ -24,6 +24,8 @@
 <img src="https://img.shields.io/badge/Geospatial_ML-000000?style=flat-square"/>
 <img src="https://img.shields.io/badge/Time_Series_ML-000000?style=flat-square"/>
 <img src="https://img.shields.io/badge/Ensemble_Learning-000000?style=flat-square"/>
+  <img src="https://img.shields.io/badge/AI-000000?style=flat-square&logo=scikitlearn&logoColor=white"/>
+
 </div>
 <br/>
 <table width="100%">
